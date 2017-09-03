@@ -1,0 +1,23 @@
+{
+  "name": "dungeons-and-dragons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fooqotsa/Dungeons-and-Dragons.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fooqotsa/Dungeons-and-Dragons/issues"
+  },
+  "homepage": "https://github.com/fooqotsa/Dungeons-and-Dragons#readme",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-redux": "^5.0.6"
+  }
+}
